@@ -1,4 +1,4 @@
-# Self-Learning-llm
+# Self-Learning-LLM
 
 Main code in `uncertainty`, scripts to run are in `script`
 
